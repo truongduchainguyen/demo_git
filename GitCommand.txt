@@ -1,0 +1,8 @@
+7 steps to push a commit:
+1. git pull
+2. git status
+3. git add .
+4. git status
+5. git commit -m "type_your_comment"
+6. git status
+7. git push
