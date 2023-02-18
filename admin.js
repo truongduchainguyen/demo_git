@@ -1,1 +1,1 @@
-console.log(ThanhLamDepTrai);
+console.log(ThanhLam);
